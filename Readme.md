@@ -1,4 +1,4 @@
 Title --> Linkedin Voice Assistant
 
-Summary --> se Linkedin with voice commands
+Summary --> use Linkedin with voice commands
 
